@@ -149,5 +149,4 @@ Highest Profit-Generating Products:
 2. Investigate low sales in January and February to identify and mitigate potential market challenges. 
 3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal stock levels.
 
-### References
-[power bi](https://www.google.com/search?q=power+bi&oq=power+bi&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyDQgBEAAYgwEYsQMYgAQyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYQTIGCAYQRRhBMgYIBxBFGEHSAQgyOTk2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
